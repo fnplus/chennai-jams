@@ -43,7 +43,7 @@ please consider submitting an [issue](https://github.com/fnplus/chennai-jams/iss
 
   Notes:
 
-* #### [Go Session 1 Hands on Workshop from zero to writing your first API](https://www.meetup.com/geek-meetup-chennai/events/259154295/()
+* #### [Go Session 1 Hands on Workshop from zero to writing your first API](https://www.meetup.com/geek-meetup-chennai/events/259154295/)
 
   Speaker(s): [Gaurav Agarwal](https://www.meetup.com/geek-meetup-chennai/events/259154295/attendees/)
 
