@@ -1,4 +1,4 @@
-# Proposals & RFPs (Request for Proposals)
+# RFPs (Request for Proposals)
 
 ## Formats
 
@@ -15,27 +15,12 @@ When you propose a topic, please pick and design your content to match the forma
 
 ## Levels
 
-Each level describes an general entry criteria for the indenteded audience.
+Each level describes an general entry criteria for the indenteded audience. **Taking GoLang as an example**
 
 1. **Beginner** - Knows programming but is new to Golang. Knows a few aspects of Golang but hasn't yet written a lot of code.
 2. **Intermediate** - Knowns Go environment. Knows Go packages, dependencies. Knows reading Godoc. Knows how to write tests. Knows the language (Interfaces, structs, pointers etc)
 3. **Advanced** - Writes Golang code regularly. Familiar with Go stdlib and popular 3rd-party libs from the community.
 4. **Expert** - Significant experience working on Golang. Knows debugging. Profiling etc. Well aware of the Go stdlib, its evolving ecosystem, architecture, best-practices etc.
-
-## How to submit a proposal
-
-To submit a proposal, open an [issue](https://github.com/fnplus/chennai-go-jams/p/issues/new/choose) and choose `StudyJam - Proposal` as the template. The template also explains the details that you must fill in.
-
-### Title
-
-The title of the proposal must follow the format:
-
-```
-Proposal: <Level>: <Format>: <YourTitle>
-
-Example:
-Proposal: Intermediate: Talk: Ways to do RPC in Golang
-```
 
 # Request for Proposal
 
