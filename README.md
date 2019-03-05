@@ -12,7 +12,7 @@ Additionally, the GolangIndia StudyGroup requires participants to adhere to [Stu
 
 If you are interested in learning about something, you can also submit a Request for Proposal (RFP). This helps identify areas where the community as a whole would like to learn about specific topics. This makes it easy for other individuals who have expertise in the topic to submit a proposal that might address this need.
 
-The [Proposals](https://github.com/golangindia/StudyGroup/blob/master/PROPOSALS.md) page also has information on how to submit RFPs.
+The [Proposals](https://github.com/fnplus/chennai-jams/blob/master/PROPOSALS.md) page also has information on how to submit RFPs.
 
 ## Volunteering & Sponsorship
 
