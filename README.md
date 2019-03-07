@@ -39,9 +39,11 @@ please consider submitting an [issue](https://github.com/fnplus/chennai-jams/iss
 
   Speaker(s): [Rishabh Singh](https://www.meetup.com/geek-meetup-chennai/events/259307671/attendees/)
 
-  Slides:
+  Slides: https://docs.google.com/presentation/d/1xyyxVUO3GNxVQPflA3MHkWLpSrwhgVHIUZJT2BSdCc0
 
-  Notes:
+  Code: https://github.com/Cheesetouched/Flutter-Login
+  
+  Photos: https://drive.google.com/drive/folders/1Rl4bEZcfTGrkj8C7d4PegWHlKZziUDAj
 
 * #### [Go Session 1 Hands on Workshop from zero to writing your first API](https://www.meetup.com/geek-meetup-chennai/events/259154295/)
 
