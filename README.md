@@ -6,7 +6,7 @@ This repository will be the one stop place to find the content of all jams/meetu
 
 All participants MUST adhere to the [Community Code of Conduct](https://github.com/fnplus/code-of-conduct).
 
-Additionally, the GolangIndia StudyGroup requires participants to adhere to [StudyJams Guidelines](https://github.com/fnplus/chennai-jams/blob/master/GUIDELINES.md).
+Additionally, the StudyJams requires participants to adhere to [StudyJams Guidelines](https://github.com/fnplus/chennai-jams/blob/master/GUIDELINES.md).
 
 ## Request for Proposals
 
